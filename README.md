@@ -53,8 +53,8 @@ This repository provides **100+ hands-on Machine Learning projects** designed to
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/100-ml-projects.git
-cd 100-ml-projects
+git clone https://github.com/your-username/100-ml-projects.git](https://github.com/fatahrahimi330/100-Machine-Learning-Projects.git
+cd 100-Machine-Learning-Projects
 
 # Create a virtual environment
 python -m venv venv
@@ -358,10 +358,10 @@ Make sure the following are installed:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-username/100-ml-projects.git
+git clone https://github.com/fatahrahimi330/100-Machine-Learning-Projects.git
 
 # Step 2: Navigate into the directory
-cd 100-ml-projects
+cd 100-Machine-Learning-Projects
 
 # Step 3: Create and activate a virtual environment
 python -m venv venv
