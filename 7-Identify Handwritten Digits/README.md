@@ -86,7 +86,7 @@ The logistic regression model achieves:
 
 The model shows consistent learning behavior with decreasing loss over epochs:
 
-![Training and Test Loss Curve](train_test_loss_per_epoch.png)
+![alt text](image-1.png)
 
 **Key Observations:**
 - Training loss decreases steadily across epochs
