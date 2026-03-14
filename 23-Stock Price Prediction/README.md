@@ -156,14 +156,14 @@ The model trains successfully and both training/validation curves decrease consi
 
 Add your exported notebook plots here (recommended path: `docs/images/`):
 
-![Loss Curve](docs/images/loss_curve.png)
-![MAE Curve](docs/images/mae_curve.png)
+![alt text](image-2.png)
+![alt text](image-1.png)
 
 ### Prediction sample visualization
 
 Optional chart to add after plotting actual vs predicted values:
 
-![Actual vs Predicted](docs/images/actual_vs_predicted.png)
+![alt text](image.png)
 
 ## 🧠 Notes and Best Practices
 
