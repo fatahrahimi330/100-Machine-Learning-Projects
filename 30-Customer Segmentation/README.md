@@ -71,6 +71,7 @@ The notebook produces:
 - a KMeans-based segment assignment for each customer,
 - 2D visual cluster representation (t-SNE),
 - clear colored groups for segment interpretation.
+
 ![alt text](image-2.png)
 ![alt text](image-1.png)
 ![alt text](image.png)
