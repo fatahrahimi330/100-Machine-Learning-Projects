@@ -12,6 +12,7 @@ End-to-end sentiment analysis project on Flipkart product reviews using NLP prep
 Classify customer reviews into:
 - **Positive (1)** for ratings >= 4
 - **Negative (0)** for ratings < 4
+
 ![alt text](image-2.png)
 
 ## Workflow
@@ -48,6 +49,7 @@ Classify customer reviews into:
    - Training accuracy and test accuracy
    - Accuracy comparison bar chart
    - Confusion matrix with class labels
+   
    ![alt text](image.png)
    ![alt text](image-1.png)
 
