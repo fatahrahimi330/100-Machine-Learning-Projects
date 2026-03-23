@@ -121,11 +121,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn openpyxl
 
 The notebook creates a dataframe similar to:
 
-| Model | MAE | RMSE | MAPE | R2 Score |
-|------|-----:|-----:|-----:|---------:|
-| RandomForestRegressor | ... | ... | ... | ... |
-| LinearRegression | ... | ... | ... | ... |
-| SVR | ... | ... | ... | ... |
+![alt text](image-6.png)
 
 (Exact values depend on data split and preprocessing state.)
 
