@@ -59,7 +59,7 @@ Based on the current notebook run:
 | DecisionTreeClassifier | 0.707 | 0.522 |
 | RandomForestClassifier | 0.707 | 0.538 |
 
-image.png
+![Model Accuracy Comparison](output.png)
 
 ## Requirements
 
